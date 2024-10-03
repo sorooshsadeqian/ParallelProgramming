@@ -1,0 +1,16 @@
+
+CPU vendor : GenuineIntel
+CPU Brand : Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+# of cores : 4
+# of logical cores : 8
+Is CPU Hyper threaded : Yes
+Is SSE   Supported : Yes
+Is SSE2  Supported : Yes
+Is SSE3  Supported : Yes
+Is SSE41 Supported : Yes
+Is SSE42 Supported : Yes
+Is AVX   Supported : Yes
+Is AVX2  Supported : Yes
+Is AES   Supported : Yes
+Is SHA   Supported : No
+Is MMX   Supported : Yes

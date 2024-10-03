@@ -1,0 +1,18 @@
+Unsigned byte: [FF, EE, DD, CC, BB, AA, 99, 88, 77, 66, 55, 44, 33, 22, 11, 0]
+
+Unsigned word: [FFEE, DDCC, BBAA, 9988, 7766, 5544, 3322, 1100]
+
+Unsigned double word: [FFEEDDCC, BBAA9988, 77665544, 33221100]
+
+Unsigned quad word: [FFEEDDCCBBAA9988, 7766554433221100]
+
+Signed byte: [-1, -18, -35, -52, -69, -86, -103, -120, 119, 102, 85, 68, 51, 34, 17, 0]
+
+Signed word: [-18, -8756, -17494, -26232, 30566, 21828, 13090, 4352]
+
+Signed double word: [-1122868, -1146447480, 2003195204, 857870592]
+
+Signed quad word: [-4822678189205112, 8603657889541918976]
+
+Single Precision Floating Point: [4.000000, 3.000000, 2.000000, 1.100000]
+
